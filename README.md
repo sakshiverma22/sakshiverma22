@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/sakshiverma22">
-  <img src="./webtoon-coding.gif" alt="Three-quarter webtoon animation of Sakshi wearing glasses and coding with ramen, rainy blue night light, a warm desk lamp, and a cat nearby" width="100%" />
+  <img src="./profile_webtoon_dynamic_hero.png" alt="Three-quarter webtoon animation of Sakshi wearing glasses and coding with ramen, rainy blue night light, a warm desk lamp, and a cat nearby" width="100%" />
 </a>
 
 # Hi, I'm Sakshi Verma
@@ -9,7 +9,7 @@
 ### Growth-minded builder shipping data, product, and developer tooling
 
 [![GitHub followers](https://img.shields.io/github/followers/sakshiverma22?label=Followers&style=flat-square&color=7c3aed)](https://github.com/sakshiverma22?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=sakshiverma22&label=Profile%20views&color=7c3aed&style=flat-square)](https://github.com/sakshiverma22)
+
 [![Repositories](https://img.shields.io/badge/Repositories-20-7c3aed?style=flat-square)](https://github.com/sakshiverma22?tab=repositories)
 
 </div>
