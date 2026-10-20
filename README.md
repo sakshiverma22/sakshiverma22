@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/sakshiverma22">
-  <img src="./assets/webtoon-coding.gif" alt="Webtoon animation of Sakshi coding at a desk while a cat wanders through the room" width="100%" />
+  <img src="./assets/webtoon-coding.gif" alt="Front-view webtoon animation of Sakshi wearing glasses and coding behind a monitor, with ramen and a cat nearby" width="100%" />
 </a>
 
 # Hi, I'm Sakshi Verma
