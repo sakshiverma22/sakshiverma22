@@ -16,23 +16,34 @@
 
 ## About me
 
-I build practical products at the intersection of growth, analytics, software engineering, and automation. My projects range from funnel and stock analysis to full-stack applications, computer vision experiments, and cloud-native deployments.
+I’m Sakshi — a growth-minded builder who likes sitting at the intersection of **“what should we build?”** and **“did it actually work?”**. I turn fuzzy ideas into dashboards, experiments, automations, and working products, then keep poking at the numbers until the story makes sense.
 
-- Exploring product analytics, experimentation, and developer productivity
-- Building with Python, JavaScript, React, Docker, Kubernetes, and cloud tooling
-- Interested in turning messy workflows into clear, measurable systems
-- Find me here on [GitHub](https://github.com/sakshiverma22)
+My happy place is a slightly chaotic desk, a stubborn bug, and one more “quick” improvement that turns into a full project. I’m currently mixing product analytics with Python, JavaScript, React, Docker, Kubernetes, and a healthy curiosity about anything that can make a workflow smarter.
+
+**My usual loop:** notice a problem → prototype the fix → measure the result → make it delightful → repeat.
+
+<div align="center">
+
+`growth` · `analytics` · `automation` · `full-stack` · `cloud-native` · `curious by default`
+
+</div>
 
 ## Featured builds
 
-| Project | What it shows |
-| --- | --- |
-| [AutoFlow AI](https://github.com/sakshiverma22/autoflow-ai) | AI-assisted workflow automation and product thinking |
-| [Funnel Analysis](https://github.com/sakshiverma22/funnel-analysis) | Conversion analysis, drop-off diagnosis, and growth insights |
-| [Three-tier Kubernetes App](https://github.com/sakshiverma22/three-tier-kubernetes-app) | Containerized application delivery and cloud-native operations |
-| [Stock Backtester](https://github.com/sakshiverma22/Stock-backtester) | Strategy research, market data, and quantitative experimentation |
-| [Cat Gesture Detection](https://github.com/sakshiverma22/catgesturedetection-app) | Computer vision with MediaPipe and OpenCV |
-| [Last Mile Delivery](https://github.com/sakshiverma22/LastMileDelivery) | End-to-end application development for delivery workflows |
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/sakshiverma22/autoflow-ai"><strong>AutoFlow AI</strong></a><br />Turns repetitive workflows into something a little less repetitive.</td>
+    <td width="50%"><a href="https://github.com/sakshiverma22/funnel-analysis"><strong>Funnel Analysis</strong></a><br />Finds where users drop off and turns the “why?” into a measurable question.</td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/sakshiverma22/three-tier-kubernetes-app"><strong>Three-tier Kubernetes App</strong></a><br />A hands-on dive into shipping a multi-layer app with cloud-native discipline.</td>
+    <td width="50%"><a href="https://github.com/sakshiverma22/Stock-backtester"><strong>Stock Backtester</strong></a><br />A sandbox for testing ideas before trusting them with real decisions.</td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/sakshiverma22/catgesturedetection-app"><strong>Cat Gesture Detection</strong></a><br />Computer vision, MediaPipe, OpenCV, and cats doing what cats do best: reacting.</td>
+    <td width="50%"><a href="https://github.com/sakshiverma22/sentinelqa"><strong>SentinelQA</strong></a><br />Exploring how quality checks can become a smarter part of the build loop.</td>
+  </tr>
+</table>
 
 ## Toolkit
 
@@ -42,7 +53,7 @@ I build practical products at the intersection of growth, analytics, software en
 
 </div>
 
-## GitHub activity
+## Mission control
 
 <div align="center">
 
@@ -53,10 +64,10 @@ I build practical products at the intersection of growth, analytics, software en
 
 <img src="https://streak-stats.demolab.com?user=sakshiverma22&hide_border=true&theme=transparent&ring=7c3aed&fire=ea580c&currStreakLabel=7c3aed" alt="Sakshi's GitHub contribution streak" />
 
-</div>
+<br />
 
-<div align="center">
-
-### Keep building. Keep learning. Keep shipping.
+<a href="https://github.com/sakshiverma22?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20PROJECTS-20-7c3aed?style=for-the-badge&labelColor=161b22" alt="Open projects" /></a>
+<a href="https://github.com/sakshiverma22?tab=stars"><img src="https://img.shields.io/badge/STATUS-LEARNING%20IN%20PUBLIC-ea580c?style=for-the-badge&labelColor=161b22" alt="Learning in public" /></a>
+<a href="https://github.com/sakshiverma22"><img src="https://img.shields.io/badge/NEXT%20UP-MORE%20EXPERIMENTS-0ea5e9?style=for-the-badge&labelColor=161b22" alt="More experiments" /></a>
 
 </div>
